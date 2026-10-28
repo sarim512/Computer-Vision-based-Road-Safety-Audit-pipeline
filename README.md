@@ -4,7 +4,7 @@ An automated road safety audit pipeline that turns a forward-facing dashcam vide
 
 ## Demo
 
-https://youtu.be/4rYpicGCoUE)
+https://youtu.be/4rYpicGCoUE
 
 ## What it measures
 
