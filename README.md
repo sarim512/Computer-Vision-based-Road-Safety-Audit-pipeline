@@ -81,7 +81,7 @@ Only needed if you choose "Calculate Dynamically using SAM 3" for MPP_Y.
 
 ### YOLO weights
 
-You need your trained road-audit segmentation model (`best.pt`) with the 11 classes listed above. **Weights are not included in this repository**; they are git-ignored. Host them on Hugging Face / Google Drive / a GitHub Release and link them here:
+You need your trained road-audit segmentation model (`best.pt`) with the 11 classes listed above. **Weights are not included in this repository. You need to request for the wights by mailing me, beacuse I do want to publicly share.**; they are git-ignored. Host them on Hugging Face / Google Drive / a GitHub Release and link them here:
 
 > **Weights:** `<add download link here>`
 
