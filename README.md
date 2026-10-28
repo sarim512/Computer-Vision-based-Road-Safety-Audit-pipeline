@@ -4,7 +4,7 @@ An automated road safety audit pipeline that turns a forward-facing dashcam vide
 
 ## Demo
 
-https://youtu.be/4rYpicGCoUE
+[![Computer Vision based Road safety Audit](https://img.youtube.com/vi/4rYpicGCoUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=4rYpicGCoUE)
 
 ## What it measures
 
