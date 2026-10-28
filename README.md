@@ -2,7 +2,7 @@
 
 An automated road safety audit pipeline that turns a forward-facing dashcam video into measurable road-safety telemetry. It combines YOLO segmentation, Depth Anything V2 metric depth, SAM 3 and classical computer vision (undistortion, bird's-eye-view transform, polynomial lane fitting) to check roads against IRC-style safety criteria.
 
-## Demo
+## Demo (Click the image below to play video)
 
 [![Computer Vision based Road safety Audit](https://img.youtube.com/vi/4rYpicGCoUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=4rYpicGCoUE)
 
