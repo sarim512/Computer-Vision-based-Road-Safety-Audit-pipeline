@@ -1,0 +1,17 @@
+# Core
+numpy
+opencv-python
+scikit-learn
+joblib
+
+# Deep learning
+# Install a CUDA build of PyTorch first if you have an NVIDIA GPU:
+#   https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+# YOLO segmentation/tracking + SAM 3 (SAM 3 needs >= 8.3.237)
+ultralytics>=8.3.237
+
+# Only needed for MPP_Y option 2 (SAM 3 text prompts). Ultralytics' fork of CLIP:
+# clip @ git+https://github.com/ultralytics/CLIP.git

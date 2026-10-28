@@ -1,0 +1,32 @@
+# Model weights / checkpoints (download separately, see README)
+*.pt
+*.pth
+*.onnx
+*.engine
+weights/
+
+# Third-party repo cloned locally
+Depth-Anything-V2/
+
+# Generated at runtime
+outputs/
+frames/
+*.pkl
+*.csv
+*.mp4
+*.avi
+*.mov
+!assets/*.gif
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
