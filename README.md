@@ -4,15 +4,7 @@ An automated road safety audit pipeline that turns a forward-facing dashcam vide
 
 ## Demo
 
-<!--
-  HOW TO ADD THE VIDEO:
-  1. Open this README.md in the GitHub web editor (pencil icon).
-  2. Drag and drop your .mp4 into the editor. GitHub uploads it and inserts a
-     https://github.com/user-attachments/assets/... link.
-  3. Delete this comment block and keep that link on its own line.
--->
-
-> Demo video coming soon.
+https://youtu.be/4rYpicGCoUE)
 
 ## What it measures
 
